@@ -9,3 +9,4 @@ dwm is an extremely fast, small, and dynamic window manager for X.
 - [attachaside](https://dwm.suckless.org/patches/attachaside/)
 - [actualfullscreen](https://dwm.suckless.org/patches/actualfullscreen/)
 - [xresources](https://dwm.suckless.org/patches/xresources/)
+- [centeredwindowname](https://dwm.suckless.org/patches/centeredwindowname/)
